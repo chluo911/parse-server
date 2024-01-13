@@ -1,0 +1,5 @@
+Error: Custom error message
+    at writeToStackTraceFile (/parse-server/lib/Controllers/DatabaseController.js:7:19)
+    at /parse-server/lib/Controllers/DatabaseController.js:609:2
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
